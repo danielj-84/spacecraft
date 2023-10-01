@@ -1,0 +1,31 @@
+{
+  "name": "spacecraft",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/cannon": "^6.6.0",
+    "@react-three/drei": "^9.86.3",
+    "@react-three/fiber": "^8.14.3",
+    "nanoid": "^5.0.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-merge-refs": "^2.1.1",
+    "three": "^0.157.0",
+    "zustand": "^4.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}
